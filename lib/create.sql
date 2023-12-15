@@ -1,10 +1,10 @@
 CREATE TABLE bears (
-id INTEGER,
+id INT,
 name TEXT,
-age INTEGER,
+age INT,
 sex TEXT,
 color TEXT,
 temperament TEXT,
-alive BOOLEAN
+alive BOOLEAN,
 
 );
